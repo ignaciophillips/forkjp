@@ -1,12 +1,4 @@
-# osucjp
-<!DOCTYPE html>
-<!--
-Aunque en este taller se utiliza HTML, CSS, y JS, no es necesario que sepas y que aprendas
-nada de estos lenguajes. Si quieres aprender luego, te recomendamos ver lo siguiente:
-- CS50W: https://cs50.harvard.edu/web/2020/
-- HTML: https://developer.mozilla.org/es/docs/Learn/HTML
-- CSS: https://developer.mozilla.org/es/docs/Learn/CSS
-- JS: https://developer.mozilla.org/es/docs/Learn/JavaScript
+
 -->
 <html lang="es">
   <head>
