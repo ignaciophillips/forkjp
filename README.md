@@ -43,8 +43,6 @@ nada de estos lenguajes. Si quieres aprender luego, te recomendamos ver lo sigui
     <h1>¡Hola JP!</h1>
   </body>
   <script>
-    // Aquí puedes dejar código JavaScript que se ejecutará cuando la página se cargue.
-    // Importante: no debes importar ningún script externo aquí.
-    // Para eso, utiliza script src dentro del head.
+    // https://github.com/JPGCA/osucjp.git
   </script>
 </html>
